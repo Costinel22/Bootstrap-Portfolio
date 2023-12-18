@@ -1,4 +1,4 @@
-.hero {
+.jumbotron {
     background-image: url("/images/hero.jpg");
     margin-top: 50px;
     height: 300px;
@@ -13,8 +13,4 @@
 .bg-image h1 {
     width: fit-content;
     background-color: rgb(146, 171, 202);
-}
-
-.img-profile {
-    padding: 40px;
 }
