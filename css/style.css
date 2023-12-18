@@ -1,5 +1,6 @@
-.bg-image {
+.hero {
     background-image: url("/images/hero.jpg");
+    margin-top: 50px;
     height: 300px;
     width: 100%;
     height: 250px;
@@ -12,4 +13,8 @@
 .bg-image h1 {
     width: fit-content;
     background-color: rgb(146, 171, 202);
+}
+
+.img-profile {
+    padding: 40px;
 }
