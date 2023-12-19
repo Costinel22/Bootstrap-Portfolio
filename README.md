@@ -9,7 +9,7 @@
 
 ## Installation
 
-https://costinel22.github.io/Bootstrap-Portfolio/#top-of-page
+https://costinel22.github.io/Bootstrap-Portfolio/
 
 ## Usage
 #### A screenshot with the first part of pages that contains the nav and hero part.
@@ -29,4 +29,4 @@ Mit licence
 
 ## Tests
 
-To test the functionality of the pages, press the links in the navbar and from the contacts, as well as the ones next to the pictures with the names see moreA piece of code illustrating the construction of a card.
+To test the functionality of the pages, press the links in the navbar and from the contacts, as well as the ones next to the pictures with the names see more A piece of code illustrating the construction of a card.
