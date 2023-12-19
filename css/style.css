@@ -1,5 +1,5 @@
-.jumbotron {
-    background-image: url("/images/hero.jpg");
+.hero {
+    background-image: url("../images/hero.jpg");
     margin-top: 50px;
     height: 300px;
     width: 100%;
@@ -19,9 +19,11 @@
 .jumbotron h2 {
     width: fit-content;
     background-color: rgb(146, 171, 202);
+    padding: 4px;
 }
 
 .jumbotron h5 {
     width: fit-content;
     background-color: rgb(146, 171, 202);
+    padding: 3px;
 }
