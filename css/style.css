@@ -22,7 +22,7 @@
     padding: 4px;
 }
 
-.jumbotron h5 {
+.jumbotron p {
     width: fit-content;
     background-color: rgb(146, 171, 202);
     padding: 3px;
