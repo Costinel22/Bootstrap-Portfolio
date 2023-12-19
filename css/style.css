@@ -8,9 +8,20 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    align-content: stretch;
 }
 
-.bg-image h1 {
+.jumbotron h2 {
+    width: fit-content;
+    background-color: rgb(146, 171, 202);
+}
+
+.jumbotron h5 {
     width: fit-content;
     background-color: rgb(146, 171, 202);
 }
